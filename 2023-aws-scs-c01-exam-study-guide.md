@@ -26,6 +26,8 @@
  12. [AWS re:Invent 2022: Protect against ransomware with a Zero Trust architecture (STG208)](https://www.youtube.com/watch?v=ELSm3WgR8RE)
  13. [AWS re:Invent 2022: Amazon S3 security and access control best practices (STG301)](https://www.youtube.com/watch?v=VeE-O0imUVY)
  14. [AWS re:Invent 2022: Architecting secure serverless applications (SVS302-R)](https://www.youtube.com/watch?v=A8iHQjHv8nY)
+ 15. [AWS re:Invent 2018: Amazon VPC: Security at the Speed of Light](https://www.youtube.com/watch?v=UP7wDBjZ37o)
+ 16. 
 
 # AWS Blogs
  1. [Top 10 security items to improve in your AWS account](https://aws.amazon.com/blogs/security/top-10-security-items-to-improve-in-your-aws-account/)
